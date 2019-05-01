@@ -1,0 +1,142 @@
+fieldset {
+	height: 30px;
+	background-color: #e6e6e6;
+	border: 1px solid;
+}
+span {
+	padding: 30px;
+	font-size: 25px;
+}
+input {
+	height: 30px;
+	width: 300px; 
+	border:1px solid; 
+	border-radius: 9px;
+	font-size: 20px;
+}
+i {
+	padding-left: 180px;
+}
+
+#first {
+	z-index: 1;
+	position: absolute;
+	margin: 10px 0 0 60px;
+	width: 90%;
+	height: 250px;
+}
+#first1 {
+	z-index: 0;
+	position: absolute;
+	width: 300px;
+	height: 250px;
+}
+#first2 {
+	z-index: -1;
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	margin-left: 310px;
+}
+#first3 {
+	z-index: -2;
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	margin-left: 620px;
+}
+#first4 {
+	z-index: -3;
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	margin-left: 930px;
+}
+.abcd	{
+	width: 300px;
+	height: 70px;
+}
+
+.abcdhead	{
+	width: 230px;
+	height: 70px;
+	margin-left: 70px;
+	background-color: white;
+}
+#heading {
+	z-index: 1;
+	position: absolute;
+	width: 1200px;
+	height: 50px;
+	margin: 261px 0 0 70px;
+}
+#head1 {
+	z-index: 0;
+	position: absolute;
+	padding:0 0 10px 20px;
+	width: 900px;
+	height: 50px;
+}
+#head2 {
+	z-index: 0;
+	position: absolute;
+	width: 300px;
+	height: 50px;
+	padding:0 0 10px 20px;
+	margin-left: 910px;
+}
+
+#second {
+	z-index: 1;
+	position: absolute;
+	margin: 325px 0 0 70px;
+	width: 1200px;
+	height: 250px;
+}
+#second1 {
+	z-index: 0;
+	position: absolute;border-top:  solid;
+	width: 900px;
+	height: 250px;
+}
+img	{
+	height: 230px;
+	margin-top: 20px;
+	z-index: 0;
+	position: absolute;
+}
+.bold	{
+	z-index: -1;
+	position: absolute;
+	margin-left: 310px;
+	font-weight: bold;
+
+}
+.para	{
+	z-index: -1;
+	position: absolute;
+	margin-left: 310px;
+	font-weight: normal;
+	margin-top: 150px;
+}
+#second2 {
+	z-index: -1;
+	position: absolute;
+	width: 300px;
+	height: 250px;
+	margin-left: 910px;
+}
+#sec21 {
+	z-index: -1;
+	position: absolute;
+	margin: 20px;
+	width: 170px;
+	height: 80px;
+	padding: 30px;
+	background-color: gray;
+}
+#sec22 {
+	width: 100%;
+	height: 60px;
+	margin-top: 185px;
+}
